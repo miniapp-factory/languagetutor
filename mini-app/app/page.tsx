@@ -1,5 +1,6 @@
 import { description, title } from "@/lib/metadata";
 import { generateMetadata } from "@/lib/farcaster-embed";
+import PhraseTeacher from "@/components/phrase-teacher";
 
 export { generateMetadata };
 
