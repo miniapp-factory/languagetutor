@@ -12,7 +12,7 @@ export default function PhraseTeacher() {
       <CardContent>
         <p>Example 1: Bonjour, comment ça va?</p>
         <p>Example 2: Bonjour à tous!</p>
-        <p>Example 3: Bonjour, je m'appelle ChatGPT.</p>
+        <p>Example 3: Bonjour, je m&apos;appelle ChatGPT.</p>
       </CardContent>
     </Card>
   );
